@@ -1,6 +1,6 @@
 # Bayesian-Optimization-on-CNN
 ## The Task
-The Sign Language Digits Dataset contains 2062 64×64 pixel images of the digits 0 to 9 represented using sign language. Here are examples of the images
+The Sign Language Digits Dataset(https://www.kaggle.com/ardamavi/sign-language-digits-dataset) contains 2062 64×64 pixel images of the digits 0 to 9 represented using sign language. Here are examples of the images
 Images       
 :-------------------------:
 ![download (3)](https://user-images.githubusercontent.com/82107572/154524893-50183d16-176e-4a37-b988-abaec20527a8.png)
