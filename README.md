@@ -1,4 +1,4 @@
-# Bayesian-Optimization-on-neural-network
+# Bayesian-Optimization-on-CNN
 ##The Task
 The Sign Language Digits Dataset contains 2062 64×64 pixel images of the digits 0 to 9 represented using sign language. Here are examples of the images
 Images       
